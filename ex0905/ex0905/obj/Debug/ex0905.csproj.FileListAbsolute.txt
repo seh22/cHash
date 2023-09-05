@@ -1,0 +1,11 @@
+C:\Users\sehee\OneDrive\바탕 화면\C#\ex0905\ex0905\bin\Debug\ex0905.exe.config
+C:\Users\sehee\OneDrive\바탕 화면\C#\ex0905\ex0905\bin\Debug\ex0905.exe
+C:\Users\sehee\OneDrive\바탕 화면\C#\ex0905\ex0905\bin\Debug\ex0905.pdb
+C:\Users\sehee\OneDrive\바탕 화면\C#\ex0905\ex0905\obj\Debug\ex0905.csproj.AssemblyReference.cache
+C:\Users\sehee\OneDrive\바탕 화면\C#\ex0905\ex0905\obj\Debug\ex0905.csproj.SuggestedBindingRedirects.cache
+C:\Users\sehee\OneDrive\바탕 화면\C#\ex0905\ex0905\obj\Debug\ex0905.Form1.resources
+C:\Users\sehee\OneDrive\바탕 화면\C#\ex0905\ex0905\obj\Debug\ex0905.Properties.Resources.resources
+C:\Users\sehee\OneDrive\바탕 화면\C#\ex0905\ex0905\obj\Debug\ex0905.csproj.GenerateResource.cache
+C:\Users\sehee\OneDrive\바탕 화면\C#\ex0905\ex0905\obj\Debug\ex0905.csproj.CoreCompileInputs.cache
+C:\Users\sehee\OneDrive\바탕 화면\C#\ex0905\ex0905\obj\Debug\ex0905.exe
+C:\Users\sehee\OneDrive\바탕 화면\C#\ex0905\ex0905\obj\Debug\ex0905.pdb
