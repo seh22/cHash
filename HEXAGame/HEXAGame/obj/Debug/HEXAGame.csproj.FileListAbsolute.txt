@@ -1,0 +1,11 @@
+C:\Users\sehee\OneDrive\바탕 화면\C#\HEXAGame\HEXAGame\bin\Debug\HEXAGame.exe.config
+C:\Users\sehee\OneDrive\바탕 화면\C#\HEXAGame\HEXAGame\bin\Debug\HEXAGame.exe
+C:\Users\sehee\OneDrive\바탕 화면\C#\HEXAGame\HEXAGame\bin\Debug\HEXAGame.pdb
+C:\Users\sehee\OneDrive\바탕 화면\C#\HEXAGame\HEXAGame\obj\Debug\HEXAGame.csproj.AssemblyReference.cache
+C:\Users\sehee\OneDrive\바탕 화면\C#\HEXAGame\HEXAGame\obj\Debug\HEXAGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\sehee\OneDrive\바탕 화면\C#\HEXAGame\HEXAGame\obj\Debug\HEXAGame.Form1.resources
+C:\Users\sehee\OneDrive\바탕 화면\C#\HEXAGame\HEXAGame\obj\Debug\HEXAGame.Properties.Resources.resources
+C:\Users\sehee\OneDrive\바탕 화면\C#\HEXAGame\HEXAGame\obj\Debug\HEXAGame.csproj.GenerateResource.cache
+C:\Users\sehee\OneDrive\바탕 화면\C#\HEXAGame\HEXAGame\obj\Debug\HEXAGame.csproj.CoreCompileInputs.cache
+C:\Users\sehee\OneDrive\바탕 화면\C#\HEXAGame\HEXAGame\obj\Debug\HEXAGame.exe
+C:\Users\sehee\OneDrive\바탕 화면\C#\HEXAGame\HEXAGame\obj\Debug\HEXAGame.pdb
