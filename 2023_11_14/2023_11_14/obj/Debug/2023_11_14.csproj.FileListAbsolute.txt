@@ -1,0 +1,11 @@
+C:\Users\sehee\OneDrive\바탕 화면\2023_11_14\2023_11_14\bin\Debug\2023_11_14.exe.config
+C:\Users\sehee\OneDrive\바탕 화면\2023_11_14\2023_11_14\bin\Debug\2023_11_14.exe
+C:\Users\sehee\OneDrive\바탕 화면\2023_11_14\2023_11_14\bin\Debug\2023_11_14.pdb
+C:\Users\sehee\OneDrive\바탕 화면\2023_11_14\2023_11_14\obj\Debug\2023_11_14.csproj.AssemblyReference.cache
+C:\Users\sehee\OneDrive\바탕 화면\2023_11_14\2023_11_14\obj\Debug\2023_11_14.csproj.SuggestedBindingRedirects.cache
+C:\Users\sehee\OneDrive\바탕 화면\2023_11_14\2023_11_14\obj\Debug\_2023_11_14.Form1.resources
+C:\Users\sehee\OneDrive\바탕 화면\2023_11_14\2023_11_14\obj\Debug\_2023_11_14.Properties.Resources.resources
+C:\Users\sehee\OneDrive\바탕 화면\2023_11_14\2023_11_14\obj\Debug\2023_11_14.csproj.GenerateResource.cache
+C:\Users\sehee\OneDrive\바탕 화면\2023_11_14\2023_11_14\obj\Debug\2023_11_14.csproj.CoreCompileInputs.cache
+C:\Users\sehee\OneDrive\바탕 화면\2023_11_14\2023_11_14\obj\Debug\2023_11_14.exe
+C:\Users\sehee\OneDrive\바탕 화면\2023_11_14\2023_11_14\obj\Debug\2023_11_14.pdb
